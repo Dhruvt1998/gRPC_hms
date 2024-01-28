@@ -1,0 +1,11 @@
+[
+  {
+    "test": 1,
+    "host": "localhost",
+    "port": 9000,
+    "id": 5,
+    "name": "Mitte",
+    "totalBeds": 100,
+    "availableBeds": 60
+  }
+]

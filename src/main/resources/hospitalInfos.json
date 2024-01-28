@@ -1,0 +1,20 @@
+[
+  {
+    "test": 0,
+    "host": "localhost",
+    "port": 9000,
+    "id": 1,
+    "name": "Test",
+    "totalBeds": 200,
+    "availableBeds": 20
+  },
+  {
+    "test": 0,
+    "host": "testHost",
+    "port": 1234,
+    "id": 123,
+    "name": "",
+    "totalBeds": 0,
+    "availableBeds": 0
+  }
+]
